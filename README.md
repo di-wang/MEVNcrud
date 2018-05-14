@@ -16,3 +16,7 @@ use express to handle get and post request
 
 
 ## mongodb connection setup
+hosted on mlab
+
+## reference 
+https://zellwk.com/blog/crud-express-mongodb/
